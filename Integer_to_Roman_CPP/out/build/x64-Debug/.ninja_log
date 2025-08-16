@@ -1,0 +1,20 @@
+# ninja log v6
+4	94	7770679319863000	build.ninja	970976400e0c668b
+3	409	7770679447892809	CMakeFiles/Integer_to_Roman_CPP.dir/main.cpp.obj	cbccb849f8587a51
+409	778	7770679451958802	Integer_to_Roman_CPP.exe	5f4d30adcc376363
+3	416	7770684140955480	CMakeFiles/Integer_to_Roman_CPP.dir/main.cpp.obj	cbccb849f8587a51
+416	610	7770684145092758	Integer_to_Roman_CPP.exe	5f4d30adcc376363
+12	745	7770866787059449	CMakeFiles/Integer_to_Roman_CPP.dir/main.cpp.obj	cbccb849f8587a51
+746	980	7770866794394272	Integer_to_Roman_CPP.exe	5f4d30adcc376363
+17	512	7770867459787770	CMakeFiles/Integer_to_Roman_CPP.dir/main.cpp.obj	cbccb849f8587a51
+513	653	7770867464747762	Integer_to_Roman_CPP.exe	5f4d30adcc376363
+12	464	7770867994122617	CMakeFiles/Integer_to_Roman_CPP.dir/main.cpp.obj	cbccb849f8587a51
+464	661	7770867998642628	Integer_to_Roman_CPP.exe	5f4d30adcc376363
+14	454	7770868737085223	CMakeFiles/Integer_to_Roman_CPP.dir/main.cpp.obj	cbccb849f8587a51
+455	577	7770868741485225	Integer_to_Roman_CPP.exe	5f4d30adcc376363
+12	457	7770868808921585	CMakeFiles/Integer_to_Roman_CPP.dir/main.cpp.obj	cbccb849f8587a51
+457	577	7770868813371573	Integer_to_Roman_CPP.exe	5f4d30adcc376363
+13	461	7770868980598606	CMakeFiles/Integer_to_Roman_CPP.dir/main.cpp.obj	cbccb849f8587a51
+462	583	7770868985088643	Integer_to_Roman_CPP.exe	5f4d30adcc376363
+14	474	7770869085511102	CMakeFiles/Integer_to_Roman_CPP.dir/main.cpp.obj	cbccb849f8587a51
+474	601	7770869090108321	Integer_to_Roman_CPP.exe	5f4d30adcc376363
