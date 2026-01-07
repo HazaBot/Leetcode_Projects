@@ -1,0 +1,7 @@
+# Ignore build directories
+out/
+build/
+cmake-build-debug/
+
+# Ignore Ninja logs
+.ninja_log
