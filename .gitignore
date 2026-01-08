@@ -1,7 +1,8 @@
-# Ignore build directories
+﻿.vs/
 out/
 build/
-cmake-build-debug/
-
-# Ignore Ninja logs
-.ninja_log
+*.exe
+*.db
+*.ipch
+*.slnx
+*.vsidx
